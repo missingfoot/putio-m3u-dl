@@ -9,9 +9,6 @@ Adds an M3U download button next to XSPF on put.io, making it easy to generate a
 - Converts XSPF playlists to M3U format on the fly
 - Downloads the M3U file with a relevant filename
 
-## Author
-You
-
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) in your browser.
 2. Download the latest [`putio_m3u_download.user.js`](https://github.com/missingfoot/putio-m3u-dl/releases) from the [Releases page](https://github.com/missingfoot/putio-m3u-dl/releases).
