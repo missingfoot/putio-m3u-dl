@@ -13,9 +13,9 @@ Adds an M3U download button next to XSPF on put.io, making it easy to generate a
 
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) in your browser.
-2. Go to the [Releases page](https://github.com/missingfoot/putio-m3u-dl/releases) and click the [`putio_m3u_download.user.js`](https://github.com/missingfoot/putio-m3u-dl/releases/latest) link. Your userscript manager will prompt you to install the script automatically—no need to download or copy anything manually.
-3. (Recommended) In Windows Explorer, right-click any `.m3u` file, choose "Open with" > "Choose another app", and set **MPC-HC** (or your preferred M3U-capable app) as the default. This lets you easily double-click M3U files to open them in your chosen application.
-4. Visit [put.io](https://app.put.io/) and enjoy the new M3U download button!
+2. Go to the [Releases page](https://github.com/missingfoot/putio-m3u-dl/releases) and click the [`putio_m3u_download.user.js`](https://github.com/missingfoot/putio-m3u-dl/releases/latest) link. Your userscript manager will prompt you to install the script automatically.
+3. (Recommended) In Windows Explorer, right-click any `.m3u` file, choose "Open with" > "Choose another app", and look for the MPC-HC directory in the Program Files folder and set **MPC-HC** (or your preferred M3U-capable app) as the default. This lets you easily double-click the M3U files to open them in your chosen application.
+4. Visit [put.io](https://app.put.io/) and enjoy the new M3U download button
 
 ## Repository
 [https://github.com/missingfoot/putio-m3u-dl](https://github.com/missingfoot/putio-m3u-dl) 
